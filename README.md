@@ -28,8 +28,3 @@
 <b>more information will be released with the official links soon as possible.</b>
 
 <b><h1>See you soon "Master"</h1></b>
-
-<!---
-MasterCryptoEggs/MasterCryptoEggs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
