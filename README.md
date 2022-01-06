@@ -27,4 +27,4 @@
 
 <b>more information will be released with the official links soon as possible.</b>
 
-<b><h1>See you soon "Master"</h1></b>
+<b><h1>See you soon "Masters"</h1></b>
