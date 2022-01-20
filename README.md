@@ -11,7 +11,7 @@
 <blockquote>There are many reasons for making this decision. The Gas Fees on Ethereum are too high, and the mint price will be high-priced for those who haven't had a chance before to mint an NFT and sell it on OpenSea.</blockquote>
 
 ✳️ How much do gas fees cost on Polygon Network?
-<blockquote>The Gas fee in Polygon Network costs about 0.06 $MATIC, and you can check any transaction on (polygonscan.com/txs) to verify.</blockquote>
+<blockquote>The Gas fee in Polygon Network costs about 0.01 $MATIC, and you can check any transaction on (polygonscan.com/txs) to verify.</blockquote>
 
 ✳️ Will there be a whitelist for Presale?
 <blockquote>No, but we have a MasterList for the Presale, We will select in total 2500 members to be in the MasterList to mint.</blockquote>
